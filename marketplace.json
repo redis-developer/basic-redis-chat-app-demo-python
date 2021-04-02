@@ -1,6 +1,6 @@
 {
   "app_name": "Basic Redis chat app in Python",
-  "description": "Showcases how to impliment chat app in Python",
+  "description": "Showcases how to impliment chat app in Python (Flask), Socket.IO and Redis",
   "type": "App",
   "contributed_by": "Redis Labs",
   "repo_url": "https://github.com/redis-developer/basic-redis-chat-app-demo-python",
@@ -15,7 +15,7 @@
       "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/basic-redis-chat-app-demo-python.git"
     }
   ],
-  "language": ["JavaScript"],
+  "language": ["Python"],
   "redis_commands": [
     "AUTH",
     "INCR",
