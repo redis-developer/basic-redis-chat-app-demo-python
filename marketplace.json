@@ -40,7 +40,7 @@
   "redis_features": ["Pub/Sub"],
   "redis_modules": [],
   "app_image_urls": [
-    "https://github.com/redis-developer/basic-redis-chat-app-demo-python/raw/master/docs/screenshot001.png"
+    "https://raw.githubusercontent.com/redis-developer/basic-redis-chat-app-demo-python/raw/master/docs/screenshot001.png"
   ],
   "youtube_url": "https://www.youtube.com/watch?v=miK7xDkDXF0",
   "special_tags": [],
