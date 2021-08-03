@@ -1,9 +1,10 @@
 {
   "app_name": "Basic Redis chat app in Python",
   "description": "Showcases how to impliment chat app in Python (Flask), Socket.IO and Redis",
-  "type": "App",
+  "type": "Building Block",
   "contributed_by": "Redis Labs",
   "repo_url": "https://github.com/redis-developer/basic-redis-chat-app-demo-python",
+  "preview_image_url": "https://raw.githubusercontent.com/redis-developer/basic-redis-chat-app-demo-python/master/images/app_preview_image.png",
   "download_url": "https://github.com/redis-developer/basic-redis-chat-app-demo-python/archive/main.zip",
   "hosted_url": "",
   "quick_deploy": "true",
