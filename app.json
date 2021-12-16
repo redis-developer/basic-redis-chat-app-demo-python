@@ -1,5 +1,8 @@
 {
   "name": "Python Flask Redis chat",
+  "repository": "https://github.com/redis-developer/basic-redis-chat-app-demo-python",
+  "logo": "https://redis.io/images/redis-white.png",
+  "addons": ["rediscloud:30"],
   "env": {
     "REDIS_ENDPOINT_URL": {
       "description": "A Redis cloud endpoint URL.",
